@@ -1,6 +1,3 @@
-<link href="css/latex.css" rel="stylesheet"></link>
-
-<link href="css/latex_no_numbers.css" rel="stylesheet"></link>
 
 
 Research
